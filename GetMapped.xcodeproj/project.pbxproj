@@ -15,6 +15,7 @@
 		A2A6849F2A7A816B007ECFDF /* LocationsDataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2A6849E2A7A816B007ECFDF /* LocationsDataService.swift */; };
 		A2A684A12A7A82F8007ECFDF /* LocationsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2A684A02A7A82F8007ECFDF /* LocationsView.swift */; };
 		A2A684A32A7A887B007ECFDF /* LocationsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2A684A22A7A887B007ECFDF /* LocationsViewModel.swift */; };
+		A2D110AB2A7AD5D600F22D0D /* LocationsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D110AA2A7AD5D600F22D0D /* LocationsListView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		A2A6849E2A7A816B007ECFDF /* LocationsDataService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LocationsDataService.swift; sourceTree = "<group>"; };
 		A2A684A02A7A82F8007ECFDF /* LocationsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationsView.swift; sourceTree = "<group>"; };
 		A2A684A22A7A887B007ECFDF /* LocationsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationsViewModel.swift; sourceTree = "<group>"; };
+		A2D110AA2A7AD5D600F22D0D /* LocationsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationsListView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +93,7 @@
 			isa = PBXGroup;
 			children = (
 				A2A684A02A7A82F8007ECFDF /* LocationsView.swift */,
+				A2D110AA2A7AD5D600F22D0D /* LocationsListView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -182,6 +185,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A2A6849F2A7A816B007ECFDF /* LocationsDataService.swift in Sources */,
+				A2D110AB2A7AD5D600F22D0D /* LocationsListView.swift in Sources */,
 				A2A684A32A7A887B007ECFDF /* LocationsViewModel.swift in Sources */,
 				A2A6848B2A7A7D00007ECFDF /* ContentView.swift in Sources */,
 				A2A684A12A7A82F8007ECFDF /* LocationsView.swift in Sources */,
