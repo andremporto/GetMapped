@@ -69,18 +69,6 @@ class LocationsDataService {
                 "paris-louvre-3",
             ],
             link: "https://en.wikipedia.org/wiki/Louvre"),
-        
-        Location(
-            name: "Cond. Alpha Class",
-            cityName: "Aracaju",
-            coordinates: CLLocationCoordinate2D(latitude: -11.0071771, longitude: -37.0972939),
-            description: "Aqui é o Lugar onde eu me escondo",
-            imageNames: [
-                "alpha01",
-                "alpha02",
-                "alpha03",
-            ],
-            link: "https://en.wikipedia.org/wiki/Louvre"),
     ]
     
 }
