@@ -25,7 +25,7 @@ Get Mapped is an iOS app developed in SwiftUI using MapKit that allows users to 
 1. Clone this repository to your local machine using:
 
 ```ruby
-git clone https://github.com/your_username/FamousPlacesExplorer.git
+git clone https://github.com/andremporto/GetMapped.git
 
 ```
 
