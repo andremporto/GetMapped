@@ -1,4 +1,4 @@
-# Get Mapped
+![GetMapped](https://socialify.git.ci/andremporto/GetMapped/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pattern=Signal&pulls=1&stargazers=1&theme=Auto)
 
 Get Mapped is an iOS app developed in SwiftUI using MapKit that allows users to explore and discover public famous places from around the world. The app provides an interactive map interface where users can view the exact locations of these places and browse through pictures to learn more about them.
 
