@@ -56,12 +56,6 @@ Contributions to this project are welcome. If you find a bug or have any suggest
 
 This project is licensed under the [MIT License](https://chat.openai.com/LICENSE).
 
-## Acknowledgments
+## Thank You
 
-Special thanks to the following friends for their invaluable contributions and support throughout the development of Get Mapped app.
-
-- [Jonata](https://github.com/jonataklabunde): Thank you for your unwavering encouragement and feedback during the initial stages of the app. Your insightful suggestions helped shape the project's direction.
-- [Raphael Torquato](https://github.com/raphaeltorquat0): A big shoutout to you for your technical expertise and assistance in implementing the Splash Screen integration. Your guidance made the app looks seamless.
-
-<br />
-I hope you enjoy using Get Mapped to discover the beauty of famous places from around the world! If you have any questions or feedback, please don't hesitate to contact us. Happy exploring! 🥰
+I hope you enjoy using Famous Places Explorer to discover the beauty and history of famous places from around the world! If you have any questions or feedback, please don't hesitate to contact us. Happy exploring! 🗺️✨
